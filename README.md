@@ -8,7 +8,8 @@ In mid-December 2020, the FDA authorized the first Covid-19 vaccine. While it wa
 
 ## Motivation and Consideration
 People's reaction toward COVID-19 vaccines have been different between countries. While vaccination rate is promising in the United States, France which is known to be one of the most vaccine-skeptical nations in the world is behind the United States as well as other European countries.
-France is the only European country where written consent is required before receiving the vaccine which can lead to delays. Moreover, the number of doses are more limited than in the United States and the campaign of vaccinations are slow.
+
+France is the only European country where written consent is required before receiving the vaccine which can lead to delays. Moreover, the number of doses are more limited than in the United States and the campaigns of vaccination are slow.
 
 ## Methodology
 ![methodology](https://github.com/AmyLG/NSS_capstone_twitter_covid19_vaccines_across_us_and_fr/blob/main/images2/methodology.png)
