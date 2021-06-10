@@ -11,7 +11,7 @@ People's reaction toward COVID-19 vaccines have been different between countries
 
 France is the only European country where written consent is required before receiving the vaccine which can lead to delays. Moreover, the number of doses are more limited than in the United States and the campaigns of vaccination are slow.
 
-## Sources:
+## Sources
 Covid vaccinations by numbers: [CDC](https://covid.cdc.gov/covid-data-tracker/#vaccinations) and [Our world in Data](https://ourworldindata.org/covid-vaccinations) and [Data.gouv.fr](https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/)
 
 Twitter data and transformers: [Twitter API](https://developer.twitter.com/en) and [translation](https://huggingface.co/Helsinki-NLP/opus-mt-fr-en) and [emotion](https://huggingface.co/cardiffnlp/twitter-roberta-base-emotion)
