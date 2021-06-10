@@ -14,7 +14,7 @@ France is the only European country where written consent is required before rec
 ![methodology](https://github.com/AmyLG/NSS_capstone_twitter_covid19_vaccines_across_us_and_fr/blob/main/images2/methodology.png)
 
 ## Exemple
-
+![exemple](https://github.com/AmyLG/NSS_capstone_twitter_covid19_vaccines_across_us_and_fr/blob/main/images2/exemple.png)
 
 ## Website
 
