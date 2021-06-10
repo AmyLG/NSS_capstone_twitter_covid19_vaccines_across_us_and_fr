@@ -19,4 +19,4 @@ France is the only European country where written consent is required before rec
 
 ## Website
 
-https://sites.google.com/view/twitter-covid-19-vaccinations/vaccination-by-numbers
+https://sites.google.com/view/twitter-covid-19-vaccinations/home
