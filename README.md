@@ -14,13 +14,13 @@ France is the only European country where written consent is required before rec
 ## Sources
 Covid vaccinations by numbers: [CDC](https://covid.cdc.gov/covid-data-tracker/#vaccinations) and [Our world in Data](https://ourworldindata.org/covid-vaccinations) and [Data.gouv.fr](https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/)
 
-Twitter data and transformers: [Twitter API](https://developer.twitter.com/en) and [translation](https://huggingface.co/Helsinki-NLP/opus-mt-fr-en) and [emotion](https://huggingface.co/cardiffnlp/twitter-roberta-base-emotion)
+Twitter data and transformers: [Twitter API](https://developer.twitter.com/en), [translation](https://huggingface.co/Helsinki-NLP/opus-mt-fr-en), [sentiment-analysis](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english?text=I+like+you.+I+love+you) and [emotion](https://huggingface.co/cardiffnlp/twitter-roberta-base-emotion)
 
 ## Methodology
 ![methodology](https://github.com/AmyLG/NSS_capstone_twitter_covid19_vaccines_across_us_and_fr/blob/main/images2/methodology.png)
 
 ## Exemple
-![exemple](https://github.com/AmyLG/NSS_capstone_twitter_covid19_vaccines_across_us_and_fr/blob/main/images2/exemple.png)
+![exemple](https://github.com/AmyLG/NSS_capstone_twitter_covid19_vaccines_across_us_and_fr/blob/main/images2/exemple_update.png)
 
 ## Website
 
